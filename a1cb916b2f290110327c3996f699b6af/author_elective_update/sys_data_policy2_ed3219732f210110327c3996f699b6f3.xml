@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="DELETE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_432677_loaner_re_loaner_request</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description/>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-15 06:54:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed3219732f210110327c3996f699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_432677_loaner_re">a1cb916b2f290110327c3996f699b6af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a1cb916b2f290110327c3996f699b6af</sys_scope>
+        <sys_update_name>sys_data_policy2_ed3219732f210110327c3996f699b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-15 06:54:03</sys_updated_on>
+    </sys_data_policy2>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">a1cb916b2f290110327c3996f699b6af</application>
+        <file_path/>
+        <instance_id>8844528c9b9c5784a4e16b8af359ff58</instance_id>
+        <instance_name>dev49858</instance_name>
+        <name>sys_data_policy2_ed3219732f210110327c3996f699b6f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2"><sys_data_policy2 action="INSERT_OR_UPDATE"><active>true</active><apply_import_set>true</apply_import_set><apply_soap>true</apply_soap><conditions/><description/><enforce_ui>true</enforce_ui><inherit>false</inherit><model_id/><model_table>x_432677_loaner_re_loaner_request</model_table><reverse_if_false>true</reverse_if_false><short_description/><sys_class_name>sys_data_policy2</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-15 06:54:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ed3219732f210110327c3996f699b6f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Loaner Request" source="x_432677_loaner_re">a1cb916b2f290110327c3996f699b6af</sys_package><sys_policy/><sys_scope display_value="Loaner Request">a1cb916b2f290110327c3996f699b6af</sys_scope><sys_update_name>sys_data_policy2_ed3219732f210110327c3996f699b6f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-15 06:54:03</sys_updated_on></sys_data_policy2></record_update>]]></payload>
+        <payload_hash>1517226487</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>adcbd5eb2f290110327c3996f699b69d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-15 06:54:04</sys_created_on>
+        <sys_id>e34259732f210110327c3996f699b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17efc28df130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-15 06:54:04</sys_updated_on>
+        <type>Data Policy</type>
+        <update_guid>eb425973192101100f7960b0f52c35c6</update_guid>
+        <update_guid_history>eb425973192101100f7960b0f52c35c6:1517226487</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-15 06:54:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy2">sys_data_policy2</sys_db_object>
+        <sys_id>7dc1078d37274bb485cb204ff96401e4</sys_id>
+        <sys_metadata>ed3219732f210110327c3996f699b6f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_432677_loaner_re">a1cb916b2f290110327c3996f699b6af</sys_package>
+        <sys_parent display_value="Loaner Request">eb9c512f2f290110327c3996f699b6b9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a1cb916b2f290110327c3996f699b6af</sys_scope>
+        <sys_scope_delete display_value="">a11605e4e4344f34966d0b17852d7db9</sys_scope_delete>
+        <sys_update_name>sys_data_policy2_ed3219732f210110327c3996f699b6f3</sys_update_name>
+        <sys_update_version display_value="sys_data_policy2_ed3219732f210110327c3996f699b6f3">e34259732f210110327c3996f699b6c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-15 06:54:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
